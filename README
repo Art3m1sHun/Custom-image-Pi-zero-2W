@@ -5,15 +5,14 @@ Please see the corresponding sections below for details.
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
+URI: git://git.yoctoproject.org/poky
+Branch: scrathgap
 
-  URI: <second dependency>
-  branch: <branch name>
+URI: git://git.openembedded.org/meta-openembedded
+Branch: scarthgap
 
-  .
-  .
-  .
+URI: https://github.com/agherzan/meta-raspberrypi.git
+Branch: scarthgap
 
 Patches
 =======
