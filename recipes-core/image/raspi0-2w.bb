@@ -19,3 +19,5 @@ IMAGE_INSTALL:append = " \
  wpa-supplicant \
  wireless-regdb-static \
 "
+
+IMAGE_INSTALL:append = "connman connman-client"
